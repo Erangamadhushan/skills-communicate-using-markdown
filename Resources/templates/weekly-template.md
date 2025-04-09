@@ -1,4 +1,4 @@
-# Week of [DATE] - [DATE]
+# Week of [DATE] - [DATE],[Year]
 
 ## What I Learned This Week
 

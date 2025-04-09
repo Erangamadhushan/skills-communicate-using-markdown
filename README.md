@@ -1,4 +1,4 @@
-#My Learning Journal
+# My Learning Journal
 
 This repository contains my weekly learning journal entries where I document:
 - New skills and technologies I'm exploring
